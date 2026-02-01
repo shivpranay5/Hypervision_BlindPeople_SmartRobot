@@ -25,7 +25,7 @@ Imagine walking blindfolded in your own home—despite knowing your surroundings
 
 Experience **Hyperion** in action by watching our demo video:
 
-[![Watch the demo](hyperion.jpg)](https://drive.google.com/file/d/1vNUwTcVukye6eRdiW84waKjLW7AepL-E/view?usp=sharing)
+[![Watch the demo](Hyperion.png)](https://drive.google.com/file/d/1vNUwTcVukye6eRdiW84waKjLW7AepL-E/view?usp=sharing)
 
 ---
 
